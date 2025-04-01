@@ -4,3 +4,5 @@ def sub(a:int,b:int) -> int:
     return a - b
 def mult(a:int, b:int) -> int:
     return a*b
+def div(a:int, b:int) -> int:
+    return a / b
